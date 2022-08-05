@@ -1,0 +1,9 @@
+initiator screen - entry for approval, mail to approvar
+approvar screen - pending list , approved list
+approvar detail - 
+
+
+TODO
+- send approvar manager name from form to workflow tbl - done
+- send email function
+- approvar screen
